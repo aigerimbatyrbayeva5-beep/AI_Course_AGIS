@@ -1,0 +1,10 @@
+{
+  "description": "Engage students with an interactive slideshow website that promotes courses and delivers digital brochures via QR codes for easy access.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
